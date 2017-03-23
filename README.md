@@ -10,5 +10,5 @@ A minimalistic websocket implementation in Asp.Net
 
 
 
-an always userfull link about .md
+an always userfull link about ".md" markup
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
